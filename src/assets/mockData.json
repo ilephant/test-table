@@ -1,0 +1,102 @@
+[
+    {
+        "name": "Выручка, руб",
+        "current_day": 500521,
+        "yesterday": 480521,
+        "this_day": 480521,
+        "subs": [
+            {
+                "name": "Наличные",
+                "current_day": 300000,
+                "yesterday": 300000,
+                "this_day": 300000
+            },
+            {
+                "name": "Безналичный расчет",
+                "current_day": 100000,
+                "yesterday": 100000,
+                "this_day": 100000
+            },
+            {
+                "name": "Кредитные карты",
+                "current_day": 100521,
+                "yesterday": 100521,
+                "this_day": 100521
+            }
+        ],
+        "chart": [
+            { "name": "Mon", "pl": 310000 },
+            { "name": "Tue", "pl": 480521 },
+            { "name": "Wed", "pl": 432960 },
+            { "name": "Thur", "pl": 123456 },
+            { "name": "Fri", "pl": 234175 },
+            { "name": "Sat", "pl": 324121 },
+            { "name": "Sut", "pl": 200312 }
+        ]
+    },
+    {
+        "name": "Средний чек, руб",
+        "current_day": 1300,
+        "yesterday": 900,
+        "this_day": 900,
+        "subs": [
+            {
+                "name": "Наличные",
+                "current_day": 3531,
+                "yesterday": 2213,
+                "this_day": 1234
+            },
+            {
+                "name": "Безналичный расчет",
+                "current_day": 4531,
+                "yesterday": 2213,
+                "this_day": 1234
+            },
+            {
+                "name": "Кредитные карты",
+                "current_day": 4531,
+                "yesterday": 3213,
+                "this_day": 1234
+            }
+        ],
+        "chart": [
+            { "name": "Mon", "pl": 1000 },
+            { "name": "Tue", "pl": 5200 },
+            { "name": "Wed", "pl": 3000 },
+            { "name": "Thur", "pl": 4000 },
+            { "name": "Fri", "pl": 5000 },
+            { "name": "Sat", "pl": 1000 },
+            { "name": "Sut", "pl": 3000 }
+        ]
+    },
+    {
+        "name": "Средний гость, руб",
+        "current_day": 1200,
+        "yesterday": 800,
+        "this_day": 800
+    },
+    {
+        "name": "Удаления из чека (после оплаты), руб",
+        "current_day": 1000,
+        "yesterday": 1100,
+        "this_day": 900
+    },
+    {
+        "name": "Удаления из чека (до оплаты), руб",
+        "current_day": 1300,
+        "yesterday": 1300,
+        "this_day": 900
+    },
+    {
+        "name": "Количество чеков",
+        "current_day": 34,
+        "yesterday": 36,
+        "this_day": 34
+    },
+    {
+        "name": "Количество гостей",
+        "current_day": 34,
+        "yesterday": 36,
+        "this_day": 32
+    }
+]
